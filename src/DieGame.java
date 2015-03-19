@@ -1,11 +1,11 @@
+//import statements
+import java.util.Random;
+import java.util.Scanner;
 /**
  * This class handles all the data and math for the random dice game.
  * @author Richard Barney
  * @version 1.0.0 October 2012
 */
-//import statements
-import java.util.Random;
-import java.util.Scanner;
 public class DieGame {
 
 	/** int to hold the pot amount */
