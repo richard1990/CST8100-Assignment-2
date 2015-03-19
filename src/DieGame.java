@@ -1,4 +1,3 @@
-
 /**
  * This class handles all the data and math for the random dice game.
  * @author Richard Barney
@@ -44,7 +43,7 @@ public class DieGame {
 	 * Set method that sets the pot amount.
 	 * @param	nPotAmount	the player's pot.
 	 */
-	public void setPotAmount(int nPotAmount) { this.nPotAmount = nPotAmount;	}
+	public void setPotAmount(int nPotAmount) { this.nPotAmount = nPotAmount; }
 	
 	/**
 	 * Method that returns the randomized die values between 1 and 6.

@@ -1,5 +1,5 @@
 /**
- * This class simply launches the program, a simply random dice game.
+ * This class simply launches the program, a simple random dice game.
  * @author Richard Barney
  * @version 1.0.0 October 2012
 */
